@@ -1,5 +1,7 @@
 # 03_05 Challenge Connect Jenkins to GitHub
 
+[![Build Status](http://localhost:8080/buildStatus/icon?job=challenge-connect-to-github)](http://localhost:8080/job/challenge-connect-to-github/)
+
 You're on a team developing an algorithm that calculates the value of pi.
 
 The code for the project is being stored in a GitHub repository. The team wants to test the latest changes to the algorithm with every push to the repo.
