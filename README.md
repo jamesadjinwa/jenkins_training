@@ -1,6 +1,6 @@
 # 03_05 Challenge Connect Jenkins to GitHub
 
-[![Build Status](http://localhost:8080/buildStatus/icon?job=challenge-connect-to-github)](http://localhost:8080/job/challenge-connect-to-github/)
+[![Build Status](http://jenkins.yaamelaa.com:8080/buildStatus/icon?job=challenge-connect-to-github)](http://jenkins.yaamelaa.com:8080/job/challenge-connect-to-github/)
 
 You're on a team developing an algorithm that calculates the value of pi.
 
